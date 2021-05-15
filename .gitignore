@@ -1,0 +1,7 @@
+conf.py
+__pycache__
+.vscode
+FFmpeg
+img/*
+
+!img/vs_bg.jpg
